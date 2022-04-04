@@ -1,0 +1,24 @@
+name: russian_banks_icons_flutter
+description: Flutter Russian banks icons
+version: 1.0.0
+homepage: https://github.com/sergey-tkach/top-russian-banks-icons
+repository: https://github.com/STRENCH0/russian_banks_icons_flutter
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+flutter:
+  fonts:
+    - family: TopRussianBanksIcons
+      fonts:
+        - asset: assets/fonts/TopRussianBanksIcons.ttf
+          weight: 400
