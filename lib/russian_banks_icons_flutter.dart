@@ -4,7 +4,7 @@ class TopRussianBanksIcons {
   TopRussianBanksIcons._();
 
   static const _kFontFam = 'TopRussianBanksIcons';
-  static const String? _kFontPkg = "top_russian_banks_icons";
+  static const String? _kFontPkg = "russian_banks_icons_flutter";
 
   static const IconData absolut = IconData(0xe800, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData akbars = IconData(0xe801, fontFamily: _kFontFam, fontPackage: _kFontPkg);
